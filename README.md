@@ -1,4 +1,20 @@
-### Hi there 👋
+Hello there, my name is Khalid Ahmed Farah 👋.
+
+I am currently studying Computer Engeineering, in the 3rd year.
+
+The current programming langauges i know are.
+- Java
+- HTML
+- JS
+- CSS
+- Python
+- Docker
+
+I know a bit of
+- Powershell
+- Linux terminal
+- JQuery
+- Bootstrap
 
 <!--
 **KhalidAFarah/KhalidAFarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
