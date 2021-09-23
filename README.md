@@ -16,6 +16,11 @@ I know a bit of
 - JQuery
 - Bootstrap
 
+
+My Linkedin
+https://www.linkedin.com/in/khalid-farah-aa180a220/
+
+
 <!--
 **KhalidAFarah/KhalidAFarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
