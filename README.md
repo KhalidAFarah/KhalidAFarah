@@ -18,7 +18,7 @@ I know a bit of
 
 
 My Linkedin
-https://www.linkedin.com/in/khalid-farah-aa180a220/
+https://www.linkedin.com/in/khalid0/
 
 
 <!--
