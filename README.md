@@ -9,6 +9,7 @@ The current programming langauges i know are.
 - CSS
 - Python
 - Docker
+- SQL
 
 I know a bit of
 - Powershell
