@@ -1,4 +1,4 @@
-Hello there, my name is Khalid Ahmed Farah 👋.
+<h1>Hello there, my name is Khalid Ahmed Farah 👋.<h1>
 
 I am currently studying Computer Engeineering, in the 3rd year .
 
