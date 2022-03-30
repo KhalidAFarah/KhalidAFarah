@@ -7,6 +7,7 @@ My Linkedin
 https://www.linkedin.com/in/khalid0/
 
 The current programming langauges i know are.
+<br>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3.org/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://getbootstrap.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
@@ -20,8 +21,7 @@ The current programming langauges i know are.
 <a href="https://heroku.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;"> </a>   
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://se.mathworks.com/products/matlab.html" rel="nofollow"> <img src="https://camo.githubusercontent.com/64bfb64ead15f4d2fe66c1dd2b132a99b1caf1cddb77f57ad5815f9bf94a3d89/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32312f4d61746c61625f4c6f676f2e706e67" alt="matlab" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="max-width: 100%;"> </a>
-
-Also
+Including
 - JQuery
 - Powershell
 <!--
