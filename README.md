@@ -28,6 +28,8 @@ The current programming langauges i know are.
 
 <a href="https://www.php.net/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/56063705/171382073-f5132c6a-472c-4ef6-a265-8750a8e9ca8e.png" alt="php" width="40" height="40" data-canonical-src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fsoftwaresushi.files.wordpress.com%2F2016%2F07%2Fpowershell_5-0_icon.png&imgrefurl=https%3A%2F%2Fsoftwaresushi.net%2F2016%2F07%2F27%2Frunning-an-exe-from-a-path-with-a-wildcard-in-powershell%2F&tbnid=1uEW7sZkQ_VEnM&vet=12ahUKEwikrafQzJj3AhXCl4sKHe9ZDikQMygjegUIARD6AQ..i&docid=VnuduvHeBBc_CM&w=256&h=256&q=powershell&ved=2ahUKEwikrafQzJj3AhXCl4sKHe9ZDikQMygjegUIARD6AQ" style="max-width: 100%;"> </a>
 
+<a href="https://www.terraform.io/" rel="nofollow"> <img src="https://www.terraform.io/_next/static/media/attributed_color.7832493a.svg" alt="Terraform" width="40" height="40" data-canonical-src="https://www.terraform.io/_next/static/media/attributed_color.7832493a.svg" style="max-width: 100%;"> </a>
+
 <!--
 **KhalidAFarah/KhalidAFarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
