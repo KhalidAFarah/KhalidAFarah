@@ -1,6 +1,6 @@
 <h1>Hello there, my name is Khalid Ahmed Farah 👋.</h1>
 
-I am currently studying Applied Computer and Information Technology with the specialization Cloud-Based Services and Operations!
+I have previously studied Applied Computer and Information Technology with the specialization Cloud-Based Services and Operations and am now working full time as a developer.
 
 
 My Linkedin
